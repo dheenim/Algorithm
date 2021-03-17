@@ -74,7 +74,7 @@ void calcScore() {
 						Score++;
 						state[3] = false;
 					}
-					if (state[2]) {//2루 있을 때
+					if (state[2]) {//2루 있을 때 
 						state[3] = true;
 						state[2] = false;
 					}
