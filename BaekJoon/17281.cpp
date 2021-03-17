@@ -29,7 +29,7 @@ int main() {
 void solve() {
 	for (int i = 1; i <= 9; i++) used[i] = false;
 	order[4] = 1;
-	used[4] = true;//1¹ø ÇÃ·¹ÀÌ¾î´Â Ç×»ó 4¹øÅ¸ÀÚ
+	used[4] = true;//1ë²ˆ í”Œë ˆì´ì–´ëŠ” í•­ìƒ 4ë²ˆíƒ€ìž
 	dfs(2);
 }
 
@@ -41,7 +41,7 @@ void dfs(int usingPlayer) {
 	}
 
 	for (int i = 1; i <= 9; i++) {
-		if (used[i] == true) continue;//ÀÌ¹Ì °Ë»çÁßÀÌ¸é pass
+		if (used[i] == true) continue;//ì´ë¯¸ ê²€ì‚¬ì¤‘ì´ë©´ pass
 		order[i] = usingPlayer;
 		used[i] = true;
 		dfs(usingPlayer+1);
@@ -55,7 +55,7 @@ void calcScore() {
 	int j = 1;
 
 	for (int i = 1; i <= N; i++) {
-		bool state[4] = { false,false,false,false };//1,2,3·ç »óÅÂ
+		bool state[4] = { false,false,false,false };//1,2,3ë£¨ ìƒíƒœ
 		int outCount = 0;
 		bool fin = false;
 		while (!fin) {
@@ -70,60 +70,60 @@ void calcScore() {
 					outCount++;
 				}
 				else if (curScore == 1) {
-					if (state[3]) {//3·ç ÀÖÀ» ¶§
+					if (state[3]) {//3ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[3] = false;
 					}
-					if (state[2]) {//2·ç ÀÖÀ» ¶§
+					if (state[2]) {//2ë£¨ ìžˆì„ ë•Œ
 						state[3] = true;
 						state[2] = false;
 					}
-					if (state[1]) {//1·ç ÀÖÀ» ¶§
+					if (state[1]) {//1ë£¨ ìžˆì„ ë•Œ
 						state[1] = false;
 						state[2] = true;
 					}
 					state[1] = true;
 				}
 				else if (curScore == 2) {
-					if (state[3]) {//3·ç ÀÖÀ» ¶§
+					if (state[3]) {//3ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[3] = false;
 					}
-					if (state[2]) {//2·ç ÀÖÀ» ¶§
+					if (state[2]) {//2ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[2] = false;
 					}
-					if (state[1]) {//1·ç ÀÖÀ» ¶§
+					if (state[1]) {//1ë£¨ ìžˆì„ ë•Œ
 						state[1] = false;
 						state[3] = true;
 					}
 					state[2] = true;
 				}
 				else if (curScore == 3) {
-					if (state[3]) {//3·ç ÀÖÀ» ¶§
+					if (state[3]) {//3ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[3] = false;
 					}
-					if (state[2]) {//2·ç ÀÖÀ» ¶§
+					if (state[2]) {//2ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[2] = false;
 					}
-					if (state[1]) {//1·ç ÀÖÀ» ¶§
+					if (state[1]) {//1ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[1] = false;
 					}
 					state[3] = true;
 				}
 				else if (curScore == 4) {
-					if (state[3]) {//3·ç ÀÖÀ» ¶§
+					if (state[3]) {//3ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[3] = false;
 					}
-					if (state[2]) {//2·ç ÀÖÀ» ¶§
+					if (state[2]) {//2ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[2] = false;
 					}
-					if (state[1]) {//1·ç ÀÖÀ» ¶§
+					if (state[1]) {//1ë£¨ ìžˆì„ ë•Œ
 						Score++;
 						state[1] = false;
 					}
