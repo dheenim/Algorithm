@@ -8,3 +8,6 @@
 
 ## [2021.03.23]
 * BaekJoon [1260] DFS와 BFS<br>
+* BaekJoon [15649] N과M(1)<br>
+* BaekJoon [15650] N과M(2)<br>
+* BaekJoon [15651] N과M(3)<br>
