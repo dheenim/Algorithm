@@ -25,3 +25,4 @@
 * BaekJoon [2606] 바이러스<br>
 * BaekJoon [1764] 듣보잡<br>
 * BaekJoon [11478] 서로 다른 부분 문자열의 개수<br>
+* BaekJoon [2206] 벽 부수고 이동하기<br>
