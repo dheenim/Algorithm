@@ -22,4 +22,5 @@
 
 ## [2021.03.25]
 * BaekJoon [10815] 숫자 카드<br>
-* BaekJoon [2606] <br>
+* BaekJoon [2606] 바이러스<br>
+* BaekJoon [1764] 듣보잡<br>
