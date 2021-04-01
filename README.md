@@ -47,3 +47,6 @@
 * BaekJoon [2178] 미로 탐색<br>
 * BaekJoon [9251] LCS<br>
 * BaekJoon [2110] 공유기 설치<br>
+
+## [2021.04.01]
+* BaekJoon [1699] 제곱수의 합<br>
