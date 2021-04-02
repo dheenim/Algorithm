@@ -59,3 +59,5 @@
 * BaekJoon [15988] 1, 2, 3 더하기 3<br>
 * BaekJoon [11060] 점프 점프<br>
 * BaekJoon [1003] 피보나치 함수<br>
+* BaekJoon [14502] 연구소<br>
+
