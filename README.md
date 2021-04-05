@@ -68,3 +68,4 @@
 
 ## [2021.04.05]
 * BaekJoon [1034] 램프<br>
+* BaekJoon [20500] Ezreal 여눈부터 가네 ㅈㅈ<br>
