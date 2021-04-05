@@ -65,3 +65,6 @@
 * BaekJoon [11054] 가장 긴 바이토닉 부분 수열<br>
 * BaekJoon [1965] 상자넣기<br>
 * BaekJoon [1986] 체스<br>
+
+## [2021.04.05]
+* BaekJoon [1034] 램프<br>
