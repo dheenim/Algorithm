@@ -73,4 +73,5 @@
 * BaekJoon [9081] 단어 맞추기_next_permutation<br>
 
 ## [2021.04.05]
-* BaekJoon [1005] ACM Craft<br>
+* BaekJoon [1005] ACM Craft_dfs timeover<br>
+* BaekJoon [1005] ACM Craft_topological sort<br>
