@@ -80,3 +80,4 @@
 * BaekJoon [3020] 개똥벌레<br>
 * BaekJoon [1013] Contact<br>
 * BaekJoon [1013] Contact_regex_match<br>
+* BaekJoon [1027] 고층 건물<br>
