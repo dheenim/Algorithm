@@ -95,4 +95,5 @@
 
 ## [2021.04.12]
 * BaekJoon [17216] 가장 큰 감소 부분 수열<br>
-* BaekJoon [1916] 최소비용 <br>
+* BaekJoon [1916] 최소비용<br>
+* BaekJoon [2062] 가르침<br>
