@@ -92,3 +92,6 @@
 * BaekJoon [2638] 치즈<br>
 * BaekJoon [2470] 두 용액<br>
 * BaekJoon [2573] 빙산<br>
+
+## [2021.04.12]
+* BaekJoon [17216] 가장 큰 감소 부분 수열<br>
