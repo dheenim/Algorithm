@@ -133,3 +133,6 @@
 * BaekJoon [16236] 아기 상어<br>
 * BaekJoon [16234] 인구 이동<br>
 * BaekJoon [17142] 연구소 3<br>
+
+## [2021.04.20]
+* BaekJoon [17779] 게리맨더링 2<br>
