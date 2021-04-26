@@ -150,3 +150,4 @@
 * BaekJoon [1212] 8진수 2진수<br>
 * BaekJoon [9375] 패션왕 신해빈<br>
 * Programmers [2019 카카오 개발자 겨울 인턴십] 징검다리 건너기<br>
+* BaekJoon [1120] 문자열<br>
