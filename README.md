@@ -158,3 +158,4 @@
 ## [2021.04.27]
 * Programmers [2019 KAKAO BLIND RECRUITMENT] 오픈채팅방<br>
 * Programmers [2019 KAKAO BLIND RECRUITMENT] 실패율<br>
+* Programmers [2019 KAKAO BLIND RECRUITMENT] 후보키<br>
