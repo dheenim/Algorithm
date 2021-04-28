@@ -162,3 +162,5 @@
 * Programmers [2017 카카오코드 예선] 카카오프렌즈 컬러링북<br>
 * Programmers [2021 KAKAO BLIND RECRUITMENT] 메뉴 리뉴얼<br>
 
+## [2021.04.27]
+* Programmers [2021 KAKAO BLIND RECRUITMENT] 신규 아이디 추천<br>
