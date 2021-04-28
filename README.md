@@ -166,3 +166,4 @@
 * Programmers [2021 KAKAO BLIND RECRUITMENT] 신규 아이디 추천<br>
 * BaekJoon [14426] 접두사 찾기<br>
 * BaekJoon [14425] 문자열 집합<br>
+* BaekJoon [16916] 부분 문자열<br>
