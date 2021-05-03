@@ -178,3 +178,4 @@
 * BaekJoon [1316] 그룹 단어 체커<br>
 * BaekJoon [1541] 잃어버린 괄호<br>
 * BaekJoon [1939] 중량제한<br>
+* Programmers [2018 KAKAO BLIND RECRUITMENT] [1차] 뉴스 클러스터링<br>
