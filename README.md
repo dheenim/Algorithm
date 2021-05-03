@@ -173,3 +173,6 @@
 ## [2021.04.29]
 * BaekJoon [9935] 문자열 폭발<br>
 * Programmers [2021 KAKAO BLIND RECRUITMENT] 순위 검색<br>
+
+## [2021.05.03]
+* BaekJoon [1316] 그룹 단어 체커<br>
