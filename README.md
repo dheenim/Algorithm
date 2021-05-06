@@ -198,3 +198,4 @@
 
 ## [2021.05.06]
 * Programmers [2018 KAKAO BLIND RECRUITMENT] [1차] 비밀지도<br>
+* BaekJoon [1806] 부분합<br>
