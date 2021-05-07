@@ -201,3 +201,8 @@
 * BaekJoon [1806] 부분합<br>
 * BaekJoon [2473] 세 용액<br>
 * Programmers [월간 코드 챌린지 시즌1] 삼각 달팽이<br>
+
+## [2021.05.06]
+* Programmers [월간 코드 챌린지 시즌2] 괄호 회전하기<br>
+* Programmers [월간 코드 챌린지 시즌1] 이진 변환 반복하기<br>
+* Programmers [월간 코드 챌린지 시즌1] 쿼드압축 후 개수 세기<br>
