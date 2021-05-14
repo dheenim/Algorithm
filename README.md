@@ -226,3 +226,4 @@
 ## [2021.05.12]
 * BaekJoon [11726] 2xn 타일링<br>
 * BaekJoon [4673] 셀프 넘버<br>
+* BaekJoon [7576] 토마토<br>
