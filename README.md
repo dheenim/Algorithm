@@ -271,3 +271,6 @@
 * Programmers [깊이/너비 우선 탐색(DFS/BFS)] 네트워크<br>
 * Programmers [동적계획법(Dynamic Programming)] 정수 삼각형<br>
 
+## [2021.10.08]
+* BaekJoon [14499] 주사위 굴리기<br>
+
