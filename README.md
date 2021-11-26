@@ -291,4 +291,4 @@
 
 ## [2021.11.26]
 * Programmers [동적계획법(Dynamic Programming)] N으로 표현<br>
-
+* Programmers [동적계획법(Dynamic Programming)] 정수 삼각형<br>
