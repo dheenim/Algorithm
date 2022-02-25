@@ -298,3 +298,4 @@
 ## [2022.02.25]
 * Programmers [2022 KAKAO BLIND RECRUITMENT] 신고 결과 받<br>
 * BaekJoon [15683] 감시<br>
+* BaekJoon [9465] 스티커<br>
