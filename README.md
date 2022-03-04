@@ -307,3 +307,6 @@
 ## [2022.03.03]
 * Programmers [2017 카카오코드 본선] 단체사진 찍기<br>
 * Programmers [2018 KAKAO BLIND RECRUITMENT] [1차] 추석 트래픽<br>
+
+## [2022.03.04]
+* Programmers [Summer/Winter Coding(2019)] 멀쩡한 사각형<br>
