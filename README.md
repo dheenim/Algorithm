@@ -310,3 +310,7 @@
 
 ## [2022.03.04]
 * Programmers [Summer/Winter Coding(2019)] 멀쩡한 사각형<br>
+
+## [2022.03.06]
+* Programmers [연습문제] 124나라의 숫자<br>
+
