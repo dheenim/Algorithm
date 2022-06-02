@@ -375,3 +375,6 @@
 ## [2022.05.30]
 * Programmers [2021 KAKAO BLIND RECRUITMENT] 신규 아이디 추천<br>
 
+## [2022.06.02]
+* Programmers [2020 KAKAO BLIND RECRUITMENT] 문자열 압축<br>
+
