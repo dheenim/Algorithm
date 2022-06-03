@@ -380,4 +380,4 @@
 
 ## [2022.06.02]
 * Programmers [2019 KAKAO BLIND RECRUITMENT] 오픈 채팅방<br>
-
+* Programmers [해시] 완주하지 못한 선수<br>
