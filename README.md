@@ -378,3 +378,6 @@
 ## [2022.06.02]
 * Programmers [2020 KAKAO BLIND RECRUITMENT] 문자열 압축<br>
 
+## [2022.06.02]
+* Programmers [2019 KAKAO BLIND RECRUITMENT] 오픈 채팅방<br>
+
