@@ -385,3 +385,7 @@
 ## [2022.09.18]
 * BaekJoon [15686] 치킨 배달<br>
 
+## [2022.09.18]
+* Programmers [2022 KAKAO TECH INTERNSHIP] 성격 유형 검사하기<br>
+* Programmers [2022 KAKAO TECH INTERNSHIP] 두 큐 합 같게 만들기<br>
+
