@@ -395,3 +395,6 @@
 ## [2022.10.07]
 * Programmers [힙(Heap)] 더 맵게<br>
 * Programmers [Summer/Winter Coding(~2018)] 배달<br>
+
+## [2022.10.13]
+* Programmers [연습문제] 최대값과 최솟값<br>
